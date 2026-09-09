@@ -1,0 +1,28 @@
+// Asset Map (Read-Only)
+// Edit assets in the Media tab.
+// Use these IDs alongside lib to reference assets in your code:
+//
+// Example: lib.getAsset["player_sprite"]
+
+const assets = {
+  "tap_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/tap_sfx_f4e57a4b-d4fc-4a9e-b877-aec744e28c05.mp3",
+    "type": "audio"
+  },
+  "purchase_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/purchase_sfx_a029d98c-a509-47f3-a6b0-f0c5a53a4ad8.mp3",
+    "type": "audio"
+  },
+  "unlock_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/unlock_sfx_b9eb7d85-62f1-4690-9057-0af07913d7b5.mp3",
+    "type": "audio"
+  },
+  "milestone_sfx": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/milestone_sfx_f5f34e90-c54f-40a9-8b92-0f95babf37ee.mp3",
+    "type": "audio"
+  },
+  "background_music": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/background_music_8c1b0607-a0a9-428d-84dd-1c1bbd7461f9.mp3",
+    "type": "audio"
+  }
+};
